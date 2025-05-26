@@ -902,6 +902,11 @@ section {
     line-height: 1.7;
 }
 
+.swiper-pagination.swiper-pagination-clickable.swiper-pagination-bullets.swiper-pagination-horizontal {
+    bottom: 0;
+}
+
+
 /* Team Section */
 .team {
     background-color: var(--light-color);
